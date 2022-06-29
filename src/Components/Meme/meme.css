@@ -1,0 +1,60 @@
+
+.form{
+    padding:50px;
+    margin-left:27%;
+    }
+
+
+input {
+    height: 40px;
+    flex: 0 0 200px;
+    margin-left: 14px;
+    width:240px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 6px;
+    border-width: thin;
+    border-color: aliceblue;
+  }
+
+button{
+    width:491px;
+    margin-left:14px;
+    margin-top: 20px;
+    background-color: black;
+    color:white;
+    height:40px;
+    border:none;
+    border-radius:6px;
+}
+
+.meme-image{
+   height:350px;
+   width:491px;
+}
+  
+.image-container {
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .image-topText{
+    position: absolute;
+    color: white;
+    text-shadow: 0 0 3px black;
+    margin-left:14px;
+    margin-bottom: 24%;
+}
+
+.image-bottomText{
+    display:flex;
+    justify-content: center;
+    position: absolute;
+    color: white;
+    text-shadow: 0 0 3px black;
+    text-align:center;
+    margin-bottom:0%;
+    margin-top:23%;
+}
