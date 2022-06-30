@@ -5,7 +5,7 @@ import trollface from '../../Images/pngegg.png'
 export default function Header(){
      return(
 <header className="header">
-<img className="trollface" src={trollface}/>
+<img className="trollface" src={trollface} alt=" "/>
 <h3>Meme Generator</h3>
 </header>
 
