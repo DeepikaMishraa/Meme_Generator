@@ -1,4 +1,4 @@
-# Meme Generator :
+# Memefyy :
 A website that allows user to generate custom  memes by choosing meme template at random and write input of their choice built with react.
 
 #### Deployed at : https://memefyy.netlify.app/
